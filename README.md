@@ -1,7 +1,19 @@
-# anti-raidbot
+# Anti-Nuke Bot
 
-Install
+To stop people from destroying your discord server.
 
-Download Node.Js.
-Install discord.js (npm install discord.js).
-Put your bot token in config.json.
+## Installation
+
+You will need [Node.js](https://pip.pypa.io/en/stable/) to run this bot.
+
+```bash
+npm install discord.js
+```
+ Put your bot token in config.js
+
+## How to run
+
+```cmd
+node .
+```
+
