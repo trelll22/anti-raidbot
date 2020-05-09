@@ -4,7 +4,7 @@ To stop people from destroying your discord server.
 
 ## Installation
 
-You will need [Node.js](https://pip.pypa.io/en/stable/) to run this bot.
+You will need [Node.js](https://nodejs.org/) to run this bot.
 
 ```bash
 npm install discord.js
